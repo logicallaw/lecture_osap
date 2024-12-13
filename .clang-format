@@ -53,4 +53,5 @@ SpacesInCStyleCastParentheses: false
 SpacesInParentheses: false
 TabWidth: 2
 UseTab: Always
+SpaceAroundPointerQualifiers: Default
 ...
