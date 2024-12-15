@@ -10,6 +10,7 @@ TEST(TestCountPositives, BasicTest) {
 	int count = CountPositives(input_vector);
 
 	// Assert
+	ASSERT_EQ(2, count);
 	EXPECT_EQ(3, count);
 }
 
